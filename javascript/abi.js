@@ -1,4 +1,4 @@
-[
+var abiContrato = [
 	{
 		"constant": false,
 		"inputs": [],
@@ -214,4 +214,4 @@
 		"stateMutability": "view",
 		"type": "function"
 	}
-]
+];
